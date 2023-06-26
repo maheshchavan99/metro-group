@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/metro-group/static/css/main.3c6be9b7.css",
+    "main.js": "/metro-group/static/js/main.30246e96.js",
+    "index.html": "/metro-group/index.html",
+    "main.3c6be9b7.css.map": "/metro-group/static/css/main.3c6be9b7.css.map",
+    "main.30246e96.js.map": "/metro-group/static/js/main.30246e96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c6be9b7.css",
+    "static/js/main.30246e96.js"
+  ]
+}
